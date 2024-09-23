@@ -1,3 +1,3 @@
 # Portfolio
 
-https://munafhaidersezan.github.io/Portfolio/
+https://munafhaidersezan.github.io/Sezan/
