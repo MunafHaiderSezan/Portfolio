@@ -1,3 +1,3 @@
-# Zion-Portfolio
+# Portfolio
 
-https://zionmezba.github.io/Zion-Portfolio/
+https://munafhaidersezan.github.io/Portfolio/
